@@ -44,3 +44,7 @@ Changing the sample rate is possible to balance between signal frequency and "pe
 
 ___
 
+
+### DISCLAIMER
+
+This software is provided 'as is' with no explicit or implied warranties in respect of its properties, including, but not limited to, correctness and/or fitness for purpose.
